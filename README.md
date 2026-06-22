@@ -15,4 +15,4 @@ Para poder ejecutar *modelo.py*, en una terminal, ubicada dentro de la carpeta d
 ```
 python modelo.py
 ```
-Es necesario que estén presente en es la carpeta *modelos* los diversos modelos entrenados.
+Es necesario que los modelos entrenados estén presentes en la carpeta *modelos*.
